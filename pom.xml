@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.encora</groupId>
     <artifactId>SplitTrip</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <packaging>war</packaging>
     <name>SplitTrip</name>
     <description>SplitTrip</description>
